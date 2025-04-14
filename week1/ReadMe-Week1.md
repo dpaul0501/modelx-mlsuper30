@@ -2,6 +2,8 @@
 
 Welcome to **Week X** of the **ModelX-ML 30-Week Bootcamp**, where we dive into the foundational principles that power modern machine learning algorithms.
 
+**Youtube** https://www.youtube.com/watch?v=pAkNPlLmsUw
+
 ---
 
 ## 🧠 Topics Covered
