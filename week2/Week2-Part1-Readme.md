@@ -19,7 +19,7 @@ We introduced the classical building blocks of recommender systems based on:
   - *User-User Similarity*: Find users with similar tastes
   - *Item-Item Similarity*: Recommend based on items the user liked
 
-🧪 **Hands-on Demo** (Kaggle):  
+🧪 **Next Pre Reading - SVD Surprise** (Kaggle):  
 We explored this [MovieLens notebook using the Surprise library](https://www.kaggle.com/code/stpeteishii/movielens-recommendation-surprise)  
 It demonstrates user-user and item-item collaborative filtering using real data.
 
@@ -28,7 +28,7 @@ It demonstrates user-user and item-item collaborative filtering using real data.
 ## 📂 Colab Notebook
 
 👉 Open the interactive Colab notebook here:  
-**[Open in Colab](#)** *(insert your Colab link)*
+**[Open in Colab](#)** *https://colab.research.google.com/drive/1NGiE2uLJ0EHcN1F9ILGOam7Egg1-mzQF?usp=sharing*
 
 ---
 
