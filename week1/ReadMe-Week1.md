@@ -6,6 +6,7 @@ Welcome to **Week X** of the **ModelX-ML 30-Week Bootcamp**, where we dive into 
 
 Slides and Notes: 
 1. https://www.cs.cornell.edu/courses/cs4780/2018fa/syllabus/ - Lecture 6-8
+
 2.[Lecture Notes: Linear & Logistic Regression](http://cs229.stanford.edu/notes2023fall/cs229-notes1.pdf)
 
 
