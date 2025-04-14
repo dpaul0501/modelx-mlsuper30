@@ -8,7 +8,8 @@ Slides and Notes:
 1. https://www.cs.cornell.edu/courses/cs4780/2018fa/syllabus/ - Lecture 6-8
 2.[Lecture Notes: Linear & Logistic Regression](http://cs229.stanford.edu/notes2023fall/cs229-notes1.pdf)
 
-
+## Assignment
+https://colab.research.google.com/drive/1dQiOqwxZzCXCbOF848asQ530MuMOASTA?usp=sharing
 
 ---
 
